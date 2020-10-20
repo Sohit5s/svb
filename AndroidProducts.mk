@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_kuntao.mk
+    $(LOCAL_DIR)/rr_kuntao.mk
 
 		COMMON_LUNCH_CHOICES := \
-				xtended_kuntao-eng \
-				xtended_kuntao-user \
-				xtended_kuntao-userdebug
+				rr_kuntao-eng \
+				rr_kuntao-user \
+				rr_kuntao-userdebug
