@@ -193,7 +193,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Maintainer
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.havoc.maintainer=SVB
+    ro.rr.maintainer=Sohit
 
 # USB debugging
 PRODUCT_PROPERTY_OVERRIDES += \
